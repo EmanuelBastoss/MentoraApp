@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "851544109537",
+    "project_id": "mentora-fd18a",
+    "storage_bucket": "mentora-fd18a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:851544109537:android:bddd424d6e93f4595ba2a0",
+        "android_client_info": {
+          "package_name": "com.example.mentora"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9UYYwNTGkPGp0C6RMqEpl6RPaPkgZ_uA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:851544109537:android:4e77635e2ccd1aca5ba2a0",
+        "android_client_info": {
+          "package_name": "com.example.mentoraapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9UYYwNTGkPGp0C6RMqEpl6RPaPkgZ_uA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
