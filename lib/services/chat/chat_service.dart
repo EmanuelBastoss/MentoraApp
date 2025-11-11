@@ -1,7 +1,7 @@
 class ChatService {
   final FirebaseFirestore _firestore = FirebaseFirestore.instance;
 
-  Stream<List<Map<String,dynamic>> getUsersStream( ){
+  Stream<List<Map<String,dynamic >> getUsersStream( ){
     return _firestore.collection('users').snapshots().map((snapshot){
       return snapshot.docs.map((doc){
 
